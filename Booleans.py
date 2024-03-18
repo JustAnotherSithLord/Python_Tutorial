@@ -27,3 +27,9 @@ bool([])
 False
 bool([1, 2, 3])
 True
+
+#
+
+0
+ int(True)
+1
