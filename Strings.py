@@ -51,3 +51,16 @@ f"My name is {name} and I'm {age} years old"
 "My name is John Doe and I'm 25 years old"
 
 #
+
+welcome[0]
+'W'
+welcome[11]
+'R'
+welcome[-1]
+'!'
+
+welcome = "Welcome to Real Python!"
+welcome[0:7]
+'Welcome'
+welcome[11:22]
+'Real Python'
