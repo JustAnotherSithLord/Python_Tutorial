@@ -10,3 +10,20 @@ True
 False
 6 != 9
 True
+
+#
+
+bool(0)
+False
+bool(1)
+True
+
+bool("")
+False
+bool("a")
+True
+
+bool([])
+False
+bool([1, 2, 3])
+True
