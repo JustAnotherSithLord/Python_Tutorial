@@ -22,3 +22,12 @@ not_escaped
 "can't"
 
 #
+
+"Happy" + " " + "pythoning!"
+'Happy pythoning!'
+
+len("Happy pythoning!")
+16
+
+" ".join(["Happy", "pythoning!"])
+'Happy pythoning!'
