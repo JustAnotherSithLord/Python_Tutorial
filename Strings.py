@@ -4,9 +4,9 @@ greeting
 'Hello there!'
 
 # Use double quotes
-welcome = "Welcome to Real Python!"
+welcome = "Welcome to Github!"
 welcome
-'Welcome to Real Python!'
+'Welcome to Github!'
 
 # Use triple quotes
 message = """Thanks for joining us!"""
@@ -40,15 +40,15 @@ len("Happy pythoning!")
 
 #
 
-name = "John Doe"
+name = "Mike"
 age = 25
 "My name is {0} and I'm {1} years old".format(name, age)
-"My name is John Doe and I'm 25 years old"
+"My name is Mike and I'm 25 years old"
 
-name = "John Doe"
+name = "Mike"
 age = 25
 f"My name is {name} and I'm {age} years old"
-"My name is John Doe and I'm 25 years old"
+"My name is Mike and I'm 25 years old"
 
 #
 
@@ -59,8 +59,8 @@ welcome[11]
 welcome[-1]
 '!'
 
-welcome = "Welcome to Real Python!"
+welcome = "Welcome to Github!"
 welcome[0:7]
 'Welcome'
-welcome[11:22]
-'Real Python'
+welcome[9:12]
+'to'
