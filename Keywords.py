@@ -11,3 +11,12 @@ assert              else                is                  while
 async               except              lambda              with
 await               finally             nonlocal            yield
 break               for                 not
+
+#
+
+import keyword
+keyword.kwlist
+['False', 'None', 'True', 'and', 'as', 'assert', 'async', 'await', 'break', 'cla
+ss', 'continue', 'def', 'del', 'elif', 'else', 'except', 'finally', 'for', 'from
+', 'global', 'if', 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 'pas
+s', 'raise', 'return', 'try', 'while', 'with', 'yield']
