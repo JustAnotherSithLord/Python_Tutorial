@@ -31,3 +31,11 @@ len("Happy pythoning!")
 
 " ".join(["Happy", "pythoning!"])
 'Happy pythoning!'
+
+"Happy pythoning!".upper()
+'HAPPY PYTHONING!'
+
+"HAPPY PYTHONING!".lower()
+'happy pythoning!'
+
+#
