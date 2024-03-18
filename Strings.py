@@ -39,3 +39,15 @@ len("Happy pythoning!")
 'happy pythoning!'
 
 #
+
+name = "John Doe"
+age = 25
+"My name is {0} and I'm {1} years old".format(name, age)
+"My name is John Doe and I'm 25 years old"
+
+name = "John Doe"
+age = 25
+f"My name is {name} and I'm {age} years old"
+"My name is John Doe and I'm 25 years old"
+
+#
